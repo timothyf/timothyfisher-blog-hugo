@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hugo.spf13.com/</loc>
+    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.spf13.com/about/</loc>
+    <lastmod>2016-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.spf13.com/blog/four-ways-to-grow-a-successful-career-as-a-software-developer/</loc>
+    <lastmod>2016-04-22T17:12:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.spf13.com/blog/so-what-is-quikly/</loc>
+    <lastmod>2016-04-22T16:47:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.spf13.com/blog/test/</loc>
+    <lastmod>2016-04-22T16:47:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.spf13.com/blog/my-journey-to-quikly/</loc>
+    <lastmod>2016-04-22T15:55:36-04:00</lastmod>
+  </url>
+  
+</urlset>

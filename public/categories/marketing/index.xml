@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing on Timothy Fisher</title>
+    <link>http://hugo.spf13.com/categories/marketing/</link>
+    <description>Recent content in Marketing on Timothy Fisher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Apr 2016 16:47:42 -0400</lastBuildDate>
+    <atom:link href="http://hugo.spf13.com/categories/marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>So What is Quikly</title>
+      <link>http://hugo.spf13.com/blog/so-what-is-quikly/</link>
+      <pubDate>Fri, 22 Apr 2016 16:47:42 -0400</pubDate>
+      
+      <guid>http://hugo.spf13.com/blog/so-what-is-quikly/</guid>
+      <description>&lt;p&gt;In my [last post] I shared with you that I recently joined &lt;a href=&#34;http://www.quikly.com&#34;&gt;Quikly&lt;/a&gt;, a Detroit-based startup, as their VP of Technology.   In this post, I’d like to tell you a bit more about what Quikly is.&lt;/p&gt;
+
+&lt;p&gt;Let’s start with the basic elevator speech.  Quikly is a platform that helps marketers drive immediate and measurable results by digitally engaging consumers in a friendly competition to earn rewards.  Consumers increase their odds of earning a top reward by taking actions to meet brand objectives, such as customer acquisition, social referral, revenue growth and more. Some of Quikly’s customers include: &lt;a href=&#34;http://www.victoriassecret.com&#34;&gt;Victoria’s Secret&lt;/a&gt;, &lt;a href=&#34;http://www.dominos.com&#34;&gt;Dominos&lt;/a&gt;, &lt;a href=&#34;http://www.microsoft.com&#34;&gt;Microsoft&lt;/a&gt;, &lt;a href=&#34;http://www.joanns.com&#34;&gt;JoAnn Stores&lt;/a&gt;, &lt;a href=&#34;http://www.quickenloans.com&#34;&gt;Quicken Loans&lt;/a&gt;, &lt;a href=&#34;http://www.petsuppliesplus.com&#34;&gt;Pet Supplies Plus&lt;/a&gt; and &lt;a href=&#34;http://www.kraft.com&#34;&gt;Kraft&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So what does all that mean?&lt;/p&gt;
+
+&lt;p&gt;Quikly uses a few principles of psychology to motivate user participation.  This includes: anticipation, scarcity, the fear of missing out, and competition.  You will see how all of these factors come into play when I describe the details of a Quikly promotion.&lt;/p&gt;
+
+&lt;p&gt;Participants learn of a Quikly promotion typically from the brand that is offering the “deal”.  For example, Dominos might send an email to their customers announcing a competition to win free pizza for a year with a link to a Quikly micro-site where users can “opt-in” to participate.  In addition to the top prize, a promotion typically features other tiers of prizes as well.  Again in the Dominos example, this might include a range of gift cards, or a coupon for a percentage off your next order with Dominos.  When users “opt-in” they are told that they will be notified in the near future of a time and day when they will be able to claim a prize.  This creates anticipation for the participants.&lt;/p&gt;
+
+&lt;p&gt;Quikly maintains a list of all users who have opted-in to participate in any given Quikly competition.   Each competition then has a live release date and time upon which participants will be sent a text message or email (based on user preference) with a link to claim a prize.   Those who claim prizes the fastest, earn the best prizes.  In each competition there is typically a limited number of prizes, so here the principles of scarcity, the fear of missing out, and competition all come into play.&lt;/p&gt;
+
+&lt;p&gt;Quikly is also a very social platform.  Participants are able to increase their chance of winning a better prize by taking social actions such as sharing on Facebook, posting a Tweet, posting on Pinterest, or following a brand on Instagram.  Users who take these actions get a “heads-up” about when the live release will happen sooner than those who do not, so they can be ready to claim a prize.  Between 20 and 40% of entries occur through a social referral.  Brands using the Quikly platform can choose which actions they want to motivate customers to take and present those as the options to the user to increase their chance of winning.  This allows the brand to target the competition to meet their objectives.  It turns out that between 40 and 60% of participants will take one or more of these actions to increase their chances of winning a prize.&lt;/p&gt;
+
+&lt;p&gt;So there you have it, in a nutshell, that’s what Quikly is.  We provide the platform that powers this pretty cool way of helping brands reach new customers and drive revenue growth.&lt;/p&gt;
+
+&lt;p&gt;So now that you know a bit more about what the Quikly platform is, in future posts I will start to tell you more about the technology platform that powers all of this.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://hugo.spf13.com/blog/test/</link>
+      <pubDate>Fri, 22 Apr 2016 16:47:42 -0400</pubDate>
+      
+      <guid>http://hugo.spf13.com/blog/test/</guid>
+      <description>&lt;p&gt;Just a test&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
