@@ -1,4 +1,5 @@
-baseurl = "http://hugo.spf13.com/"
+# baseurl = "http://hugo.spf13.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Timothy Fisher"
 theme = "hugo-future-imperfect"
