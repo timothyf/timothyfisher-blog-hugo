@@ -1,5 +1,5 @@
 # baseurl = "http://hugo.spf13.com/"
-baseurl = "/"
+baseurl = "http://timothyfisher.netlify.com/"
 languageCode = "en-us"
 title = "Timothy Fisher"
 theme = "hugo-future-imperfect"
